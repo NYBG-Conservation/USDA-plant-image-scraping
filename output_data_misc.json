@@ -1,0 +1,5234 @@
+[
+	{
+		"species": 7,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Scalopus_aquaticus.html",
+		"collection_type": 0,
+		"mw_taxontype": "mammal"
+	},
+	{
+		"species": 10,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Sorex_cinereus.html",
+		"collection_type": 0,
+		"mw_taxontype": "mammal"
+	},
+	{
+		"species": 14,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Eptesicus_fuscus.html",
+		"collection_type": 0,
+		"mw_taxontype": "mammal"
+	},
+	{
+		"species": 16,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Lasiurus_borealis.html",
+		"collection_type": 0,
+		"mw_taxontype": "mammal"
+	},
+	{
+		"species": 18,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Procyon_lotor.html",
+		"collection_type": 1,
+		"mw_taxontype": "mammal"
+	},
+	{
+		"species": 20,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Neovison_vison.html",
+		"collection_type": 0,
+		"mw_taxontype": "mammal"
+	},
+	{
+		"species": 21,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Mephitis_mephitis.html",
+		"collection_type": 0,
+		"mw_taxontype": "mammal"
+	},
+	{
+		"species": 23,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Urocyon_cinereoargenteus.html",
+		"collection_type": 0,
+		"mw_taxontype": "mammal"
+	},
+	{
+		"species": 25,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Tamias_striatus.html",
+		"collection_type": 0,
+		"mw_taxontype": "mammal"
+	},
+	{
+		"species": 27,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Sciurus_carolinensis.html",
+		"collection_type": 1,
+		"mw_taxontype": "mammal"
+	},
+	{
+		"species": 28,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Glaucomys_volans.html",
+		"collection_type": 0,
+		"mw_taxontype": "mammal"
+	},
+	{
+		"species": 29,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Microtus_pennsylvanicus.html",
+		"collection_type": 0,
+		"mw_taxontype": "mammal"
+	},
+	{
+		"species": 30,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Peromyscus_leucopus.html",
+		"collection_type": 0,
+		"mw_taxontype": "mammal"
+	},
+	{
+		"species": 32,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Ondatra_zibethicus.html",
+		"collection_type": 0,
+		"mw_taxontype": "mammal"
+	},
+	{
+		"species": 33,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Sylvilagus_floridanus.html",
+		"collection_type": 0,
+		"mw_taxontype": "mammal"
+	},
+	{
+		"species": 34,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Castor_canadensis.html",
+		"collection_type": 1,
+		"mw_taxontype": "mammal"
+	},
+	{
+		"species": 35,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Ursus_americanus.html",
+		"collection_type": 1,
+		"mw_taxontype": "mammal"
+	},
+	{
+		"species": 36,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Canis_lupus.html",
+		"collection_type": 0,
+		"mw_taxontype": "mammal"
+	},
+	{
+		"species": 37,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Puma_concolor.html",
+		"collection_type": 0,
+		"mw_taxontype": "mammal"
+	},
+	{
+		"species": 38,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Lynx_rufus.html",
+		"collection_type": 0,
+		"mw_taxontype": "mammal"
+	},
+	{
+		"species": 39,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Odocoileus_virginianus.html",
+		"collection_type": 1,
+		"mw_taxontype": "mammal"
+	},
+	{
+		"species": 41,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Lasionycteris_noctivagans.html",
+		"collection_type": 0,
+		"mw_taxontype": "mammal"
+	},
+	{
+		"species": 50,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Phocoena_phocoena.html",
+		"collection_type": 0,
+		"mw_taxontype": "mammal"
+	},
+	{
+		"species": 63,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Lontra_canadensis .html",
+		"collection_type": 0,
+		"mw_taxontype": "mammal"
+	},
+	{
+		"species": 78,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Lasiurus_cinereus.html",
+		"collection_type": 0,
+		"mw_taxontype": "mammal"
+	},
+	{
+		"species": 87,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Canis_lupus_familiaris.html",
+		"collection_type": 0,
+		"mw_taxontype": "mammal"
+	},
+	{
+		"species": 94,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Peromyscus_maniculatus.html",
+		"collection_type": 0,
+		"mw_taxontype": "mammal"
+	},
+	{
+		"species": 101,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Pseudacris_crucifer.html",
+		"collection_type": 0,
+		"mw_taxontype": "amphibians"
+	},
+	{
+		"species": 102,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Hyla_versicolor.html",
+		"collection_type": 0,
+		"mw_taxontype": "amphibians"
+	},
+	{
+		"species": 103,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Rana_catesbeiana.html",
+		"collection_type": 0,
+		"mw_taxontype": "amphibians"
+	},
+	{
+		"species": 104,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Rana_clamitans.html",
+		"collection_type": 0,
+		"mw_taxontype": "amphibians"
+	},
+	{
+		"species": 105,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Rana_sylvatica.html",
+		"collection_type": 0,
+		"mw_taxontype": "amphibians"
+	},
+	{
+		"species": 106,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Rana_sphenocephala.html",
+		"collection_type": 0,
+		"mw_taxontype": "amphibians"
+	},
+	{
+		"species": 108,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Bufo_fowleri.html",
+		"collection_type": 0,
+		"mw_taxontype": "amphibians"
+	},
+	{
+		"species": 110,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Scaphiopus_holbrookii.html",
+		"collection_type": 0,
+		"mw_taxontype": "amphibians"
+	},
+	{
+		"species": 111,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Acris_crepitans.html",
+		"collection_type": 0,
+		"mw_taxontype": "amphibians"
+	},
+	{
+		"species": 117,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Ambystoma_opacum.html",
+		"collection_type": 0,
+		"mw_taxontype": "amphibians"
+	},
+	{
+		"species": 118,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Ambystoma_maculatum.html",
+		"collection_type": 0,
+		"mw_taxontype": "amphibians"
+	},
+	{
+		"species": 120,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/search?SearchableText=Ambystoma+laterale&Search.x=0&Search.y=0",
+		"collection_type": 0,
+		"mw_taxontype": "amphibians"
+	},
+	{
+		"species": 121,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Plethodon_cinereus.html",
+		"collection_type": 0,
+		"mw_taxontype": "amphibians"
+	},
+	{
+		"species": 123,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Hemidactylium_scutatum.html",
+		"collection_type": 0,
+		"mw_taxontype": "amphibians"
+	},
+	{
+		"species": 124,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Notophthalmus_viridescens.html",
+		"collection_type": 0,
+		"mw_taxontype": "amphibians"
+	},
+	{
+		"species": 125,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Eurycea_bislineata.html",
+		"collection_type": 0,
+		"mw_taxontype": "amphibians"
+	},
+	{
+		"species": 127,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Desmognathus_fuscus.html",
+		"collection_type": 0,
+		"mw_taxontype": "amphibians"
+	},
+	{
+		"species": 133,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Storeria_dekayi.html",
+		"collection_type": 0,
+		"mw_taxontype": "reptile"
+	},
+	{
+		"species": 134,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Nerodia_sipedon.html",
+		"collection_type": 0,
+		"mw_taxontype": "reptile"
+	},
+	{
+		"species": 135,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Thamnophis_sirtalis.html",
+		"collection_type": 0,
+		"mw_taxontype": "reptile"
+	},
+	{
+		"species": 136,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Thamnophis_sauritus.html",
+		"collection_type": 0,
+		"mw_taxontype": "reptile"
+	},
+	{
+		"species": 137,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Lampropeltis_triangulum.html",
+		"collection_type": 0,
+		"mw_taxontype": "reptile"
+	},
+	{
+		"species": 139,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Carphophis_amoenus.html",
+		"collection_type": 0,
+		"mw_taxontype": "reptile"
+	},
+	{
+		"species": 140,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Coluber_constrictor.html",
+		"collection_type": 0,
+		"mw_taxontype": "reptile"
+	},
+	{
+		"species": 141,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/resources/ummz_herpetology/07.herp.jpg/view.html",
+		"collection_type": 0,
+		"mw_taxontype": "reptile"
+	},
+	{
+		"species": 142,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Heterodon_platirhinos.html",
+		"collection_type": 0,
+		"mw_taxontype": "reptile"
+	},
+	{
+		"species": 143,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Diadophis_punctatus.html",
+		"collection_type": 0,
+		"mw_taxontype": "reptile"
+	},
+	{
+		"species": 144,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Storeria_occipitomaculata.html",
+		"collection_type": 0,
+		"mw_taxontype": "reptile"
+	},
+	{
+		"species": 145,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Crotalus_horridus.html",
+		"collection_type": 0,
+		"mw_taxontype": "reptile"
+	},
+	{
+		"species": 147,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Chelydra_serpentina.html",
+		"collection_type": 1,
+		"mw_taxontype": "reptile"
+	},
+	{
+		"species": 148,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Terrapene_carolina.html",
+		"collection_type": 1,
+		"mw_taxontype": "reptile"
+	},
+	{
+		"species": 149,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Clemmys_guttata.html",
+		"collection_type": 1,
+		"mw_taxontype": "reptile"
+	},
+	{
+		"species": 150,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Chrysemys_picta.html",
+		"collection_type": 1,
+		"mw_taxontype": "reptile"
+	},
+	{
+		"species": 151,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/pictures/Kinosternon_subrubrum.html",
+		"collection_type": 1,
+		"mw_taxontype": "reptile"
+	},
+	{
+		"species": 152,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Malaclemys_terrapin.html",
+		"collection_type": 1,
+		"mw_taxontype": "reptile"
+	},
+	{
+		"species": 153,
+		"externallink": "http://animaldiversity.ummz.umich.edu/site/accounts/information/Sternotherus_odoratus.html",
+		"collection_type": 1,
+		"mw_taxontype": "reptile"
+	},
+	{
+		"species": 180,
+		"externallink": "http://www.allaboutbirds.org/guide/Pied-billed_Grebe/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 193,
+		"externallink": "http://www.allaboutbirds.org/guide/Double-crested_Cormorant/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 195,
+		"externallink": "http://www.allaboutbirds.org/guide/American_Bittern/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 202,
+		"externallink": "http://www.allaboutbirds.org/guide/Green_Heron/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 203,
+		"externallink": "http://www.allaboutbirds.org/guide/Black-crowned_Night-Heron/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 214,
+		"externallink": "http://www.allaboutbirds.org/guide/Wood_Duck/id",
+		"collection_type": 1,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 218,
+		"externallink": "http://www.allaboutbirds.org/guide/American_Black_Duck/id",
+		"collection_type": 1,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 220,
+		"externallink": "http://www.allaboutbirds.org/guide/Blue-winged_Teal/id",
+		"collection_type": 1,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 244,
+		"externallink": "http://www.allaboutbirds.org/guide/Osprey/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 247,
+		"externallink": "http://www.allaboutbirds.org/guide/Bald_Eagle/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 248,
+		"externallink": "http://www.allaboutbirds.org/guide/Northern_Harrier/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 249,
+		"externallink": "http://www.allaboutbirds.org/guide/Sharp-shinned_Hawk/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 252,
+		"externallink": "http://www.allaboutbirds.org/guide/Red-shouldered_Hawk/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 253,
+		"externallink": "http://www.allaboutbirds.org/guide/Broad-winged_Hawk/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 254,
+		"externallink": "http://www.allaboutbirds.org/guide/Red-tailed_Hawk/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 257,
+		"externallink": "http://www.allaboutbirds.org/guide/American_Kestrel/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 259,
+		"externallink": "http://www.allaboutbirds.org/guide/Peregrine_Falcon/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 261,
+		"externallink": "http://www.allaboutbirds.org/guide/Wild_Turkey/id",
+		"collection_type": 1,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 262,
+		"externallink": "http://www.allaboutbirds.org/guide/Northern_Bobwhite/id",
+		"collection_type": 1,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 263,
+		"externallink": "http://www.allaboutbirds.org/guide/Clapper_Rail/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 265,
+		"externallink": "http://www.allaboutbirds.org/guide/Virginia_Rail/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 266,
+		"externallink": "http://www.allaboutbirds.org/guide/Sora/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 268,
+		"externallink": "http://www.allaboutbirds.org/guide/Common_Moorhen/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 270,
+		"externallink": "http://www.allaboutbirds.org/guide/Black-bellied_Plover/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 272,
+		"externallink": "http://www.allaboutbirds.org/guide/Semipalmated_Plover/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 274,
+		"externallink": "http://www.allaboutbirds.org/guide/Killdeer/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 278,
+		"externallink": "http://www.allaboutbirds.org/guide/Greater_Yellowlegs/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 279,
+		"externallink": "http://www.allaboutbirds.org/guide/Lesser_Yellowlegs/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 280,
+		"externallink": "http://www.allaboutbirds.org/guide/Solitary_Sandpiper/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 282,
+		"externallink": "http://www.allaboutbirds.org/guide/Spotted_Sandpiper/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 283,
+		"externallink": "http://www.allaboutbirds.org/guide/Upland_Sandpiper/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 284,
+		"externallink": "http://www.allaboutbirds.org/guide/Whimbrel/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 285,
+		"externallink": "http://www.allaboutbirds.org/guide/Hudsonian_Godwit/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 290,
+		"externallink": "http://www.allaboutbirds.org/guide/Semipalmated_Sandpiper/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 294,
+		"externallink": "http://www.allaboutbirds.org/guide/Least_Sandpiper/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 295,
+		"externallink": "http://www.allaboutbirds.org/guide/White-rumped_Sandpiper/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 297,
+		"externallink": "http://www.allaboutbirds.org/guide/Pectoral_Sandpiper/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 307,
+		"externallink": "http://www.allaboutbirds.org/guide/American_Woodcock/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 317,
+		"externallink": "http://www.allaboutbirds.org/guide/Ring-billed_Gull/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 330,
+		"externallink": "http://www.allaboutbirds.org/guide/Common_Tern/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 341,
+		"externallink": "http://www.allaboutbirds.org/guide/Mourning_Dove/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 342,
+		"externallink": "http://www.allaboutbirds.org/guide/Black-billed_Cuckoo/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 345,
+		"externallink": "http://www.allaboutbirds.org/guide/Eastern_Screech-Owl/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 346,
+		"externallink": "http://www.allaboutbirds.org/guide/Great_Horned_Owl/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 351,
+		"externallink": "http://www.allaboutbirds.org/guide/Northern_Saw-whet_Owl/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 352,
+		"externallink": "http://www.allaboutbirds.org/guide/Common_Nighthawk/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 356,
+		"externallink": "http://www.allaboutbirds.org/guide/Ruby-throated_Hummingbird/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 359,
+		"externallink": "http://www.allaboutbirds.org/guide/Red-bellied_Woodpecker/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 361,
+		"externallink": "http://www.allaboutbirds.org/guide/Downy_Woodpecker/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 362,
+		"externallink": "http://www.allaboutbirds.org/guide/Hairy_Woodpecker/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 363,
+		"externallink": "http://www.allaboutbirds.org/guide/Northern_Flicker/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 365,
+		"externallink": "http://www.allaboutbirds.org/guide/Olive-sided_Flycatcher/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 366,
+		"externallink": "http://www.allaboutbirds.org/guide/Eastern_Wood-Pewee/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 367,
+		"externallink": "http://www.allaboutbirds.org/guide/Yellow-bellied_Flycatcher/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 371,
+		"externallink": "http://www.allaboutbirds.org/guide/Least_Flycatcher/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 372,
+		"externallink": "http://www.allaboutbirds.org/guide/Eastern_Phoebe/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 374,
+		"externallink": "http://www.allaboutbirds.org/guide/Great_Crested_Flycatcher/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 376,
+		"externallink": "http://www.allaboutbirds.org/guide/Eastern_Kingbird/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 382,
+		"externallink": "http://www.allaboutbirds.org/guide/Warbling_Vireo/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 384,
+		"externallink": "http://www.allaboutbirds.org/guide/Red-eyed_Vireo/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 385,
+		"externallink": "http://www.allaboutbirds.org/guide/Blue_Jay/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 386,
+		"externallink": "http://www.allaboutbirds.org/guide/American_Crow/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 390,
+		"externallink": "http://www.allaboutbirds.org/guide/Tree_Swallow/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 394,
+		"externallink": "http://www.allaboutbirds.org/guide/Barn_Swallow/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 395,
+		"externallink": "http://www.allaboutbirds.org/guide/Black-capped_Chickadee/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 398,
+		"externallink": "http://www.allaboutbirds.org/guide/White-breasted_Nuthatch/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 401,
+		"externallink": "http://www.allaboutbirds.org/guide/House_Wren/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 404,
+		"externallink": "http://www.allaboutbirds.org/guide/Marsh_Wren/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 409,
+		"externallink": "http://www.allaboutbirds.org/guide/Veery/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 412,
+		"externallink": "http://www.allaboutbirds.org/guide/Swainsons_Thrush/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 413,
+		"externallink": "http://www.allaboutbirds.org/guide/Hermit_Thrush/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 415,
+		"externallink": "http://www.allaboutbirds.org/guide/American_Robin/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 417,
+		"externallink": "http://www.allaboutbirds.org/guide/Gray_Catbird/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 419,
+		"externallink": "http://www.allaboutbirds.org/guide/Brown_Thrasher/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 421,
+		"externallink": "http://www.allaboutbirds.org/guide/Cedar_Waxwing/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 426,
+		"externallink": "http://www.allaboutbirds.org/guide/Nashville_Warbler/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 427,
+		"externallink": "http://www.allaboutbirds.org/guide/Northern_Parula/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 428,
+		"externallink": "http://www.allaboutbirds.org/guide/Yellow_Warbler/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 430,
+		"externallink": "http://www.allaboutbirds.org/guide/Magnolia_Warbler/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 432,
+		"externallink": "http://www.allaboutbirds.org/guide/Black-throated_Blue_Warbler/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 434,
+		"externallink": "http://www.allaboutbirds.org/guide/Black-throated_Green_Warbler/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 435,
+		"externallink": "http://www.allaboutbirds.org/guide/Blackburnian_Warbler/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 440,
+		"externallink": "http://www.allaboutbirds.org/guide/Bay-breasted_Warbler/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 441,
+		"externallink": "http://www.allaboutbirds.org/guide/Blackpoll_Warbler/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 443,
+		"externallink": "http://www.allaboutbirds.org/guide/Black-and-white_Warbler/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 444,
+		"externallink": "http://www.allaboutbirds.org/guide/American_Redstart/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 447,
+		"externallink": "http://www.allaboutbirds.org/guide/Ovenbird/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 448,
+		"externallink": "http://www.allaboutbirds.org/guide/Northern_Waterthrush/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 453,
+		"externallink": "http://www.allaboutbirds.org/guide/Common_Yellowthroat/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 455,
+		"externallink": "http://www.allaboutbirds.org/guide/Wilsons_Warbler/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 456,
+		"externallink": "http://www.allaboutbirds.org/guide/Canada_Warbler/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 459,
+		"externallink": "http://www.allaboutbirds.org/guide/Scarlet_Tanager/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 460,
+		"externallink": "http://www.allaboutbirds.org/guide/Eastern_Towhee/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 462,
+		"externallink": "http://www.allaboutbirds.org/guide/Chipping_Sparrow/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 464,
+		"externallink": "http://www.allaboutbirds.org/guide/Field_Sparrow/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 471,
+		"externallink": "http://www.allaboutbirds.org/guide/Saltmarsh_Sharp-tailed_Sparrow/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 474,
+		"externallink": "http://www.allaboutbirds.org/guide/Song_Sparrow/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 476,
+		"externallink": "http://www.allaboutbirds.org/guide/Swamp_Sparrow/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 483,
+		"externallink": "http://www.allaboutbirds.org/guide/Rose-breasted_Grosbeak/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 485,
+		"externallink": "http://www.allaboutbirds.org/guide/Indigo_Bunting/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 488,
+		"externallink": "http://www.allaboutbirds.org/guide/Red-winged_Blackbird/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 493,
+		"externallink": "http://www.allaboutbirds.org/guide/Common_Grackle/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 497,
+		"externallink": "http://www.allaboutbirds.org/guide/Baltimore_Oriole/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 498,
+		"externallink": "http://www.allaboutbirds.org/guide/Purple_Finch/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 503,
+		"externallink": "http://www.allaboutbirds.org/guide/American_Goldfinch/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 505,
+		"externallink": "http://eol.org/pages/1050135",
+		"collection_type": 1,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 506,
+		"externallink": "http://www.allaboutbirds.org/guide/Greater_Prairie-Chicken/id",
+		"collection_type": 1,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 508,
+		"externallink": "http://eol.org/pages/1049396",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 518,
+		"externallink": "http://www.allaboutbirds.org/guide/Ruffed_Grouse/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 523,
+		"externallink": "http://www.allaboutbirds.org/guide/Common_Raven/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 526,
+		"externallink": "http://www.allaboutbirds.org/guide/Long-billed_Curlew/id",
+		"collection_type": 0,
+		"mw_taxontype": "bird - migrant"
+	},
+	{
+		"species": 544,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Squalus&speciesname=acanthias",
+		"collection_type": 0,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 545,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Leucoraja&speciesname=erinacea",
+		"collection_type": 0,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 549,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Conger&speciesname=oceanicus",
+		"collection_type": 0,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 550,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Clupea&speciesname=harengus",
+		"collection_type": 2,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 551,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Brevoortia&speciesname=tyrannus",
+		"collection_type": 0,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 552,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Etrumeus&speciesname=teres",
+		"collection_type": 0,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 553,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Anchoa&speciesname=hepsetus",
+		"collection_type": 0,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 554,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Anchoa&speciesname=mitchilli",
+		"collection_type": 0,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 557,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Gadus&speciesname=morhua",
+		"collection_type": 2,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 559,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Microgadus&speciesname=tomcod",
+		"collection_type": 0,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 561,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Urophycis&speciesname=chuss",
+		"collection_type": 2,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 562,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Urophycis&speciesname=regia",
+		"collection_type": 2,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 564,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Ophidion&speciesname=marginatum",
+		"collection_type": 0,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 565,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Opsanus&speciesname=tau",
+		"collection_type": 0,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 567,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Mugil&speciesname=curema",
+		"collection_type": 0,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 568,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Membras&speciesname=martinica",
+		"collection_type": 0,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 569,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Strongylura&speciesname=marina",
+		"collection_type": 0,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 573,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Hemitripterus&speciesname=americanus",
+		"collection_type": 0,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 574,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Bairdiella&speciesname=chrysoura",
+		"collection_type": 0,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 575,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Myoxocephalus&speciesname=octodecemspinosus",
+		"collection_type": 0,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 578,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Centropristis&speciesname=striata",
+		"collection_type": 0,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 582,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Caranx&speciesname=hippos",
+		"collection_type": 0,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 588,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Archosargus&speciesname=probatocephalus",
+		"collection_type": 0,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 590,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Cynoscion&speciesname=regalis",
+		"collection_type": 2,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 591,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Leiostomus&speciesname=xanthurus",
+		"collection_type": 0,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 592,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Menticirrhus&speciesname=saxatilis",
+		"collection_type": 0,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 594,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Scomber&speciesname=scombrus",
+		"collection_type": 2,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 596,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Pogonias&speciesname=cromis",
+		"collection_type": 0,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 601,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Tautoga&speciesname=onitis",
+		"collection_type": 2,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 602,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Tautogolabrus&speciesname=adspersus",
+		"collection_type": 0,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 603,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Pholis&speciesname=gunnellus",
+		"collection_type": 0,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 606,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Ammodytes&speciesname=americanus",
+		"collection_type": 0,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 611,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Paralichthys&speciesname=dentatus",
+		"collection_type": 2,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 612,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Scophthalmus&speciesname=aquosus",
+		"collection_type": 2,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 615,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Pseudopleuronectes&speciesname=americanus",
+		"collection_type": 2,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 616,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Pomatomus&speciesname=saltatrix",
+		"collection_type": 2,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 621,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Sphoeroides&speciesname=maculatus",
+		"collection_type": 0,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 622,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Stenotomus&speciesname=chrysops",
+		"collection_type": 0,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 623,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Hippocampus&speciesname=erectus",
+		"collection_type": 0,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 624,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Syngnathus&speciesname=fuscus",
+		"collection_type": 0,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 627,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Prionotus&speciesname=evolans",
+		"collection_type": 0,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 633,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Myoxocephalus&speciesname=aenaeus",
+		"collection_type": 0,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 634,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Menidia&speciesname=beryllina",
+		"collection_type": 0,
+		"mw_taxontype": "fish - both"
+	},
+	{
+		"species": 637,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Petromyzon&speciesname=marinus",
+		"collection_type": 2,
+		"mw_taxontype": "fish - both"
+	},
+	{
+		"species": 638,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Umbra&speciesname=pygmaea",
+		"collection_type": 0,
+		"mw_taxontype": "fish - freshwater"
+	},
+	{
+		"species": 639,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Esox&speciesname=americanus",
+		"collection_type": 2,
+		"mw_taxontype": "fish - freshwater"
+	},
+	{
+		"species": 641,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Esox&speciesname=niger",
+		"collection_type": 2,
+		"mw_taxontype": "fish - freshwater"
+	},
+	{
+		"species": 642,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Ameiurus&speciesname=catus",
+		"collection_type": 0,
+		"mw_taxontype": "fish - freshwater"
+	},
+	{
+		"species": 644,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Ameiurus&speciesname=nebulosus",
+		"collection_type": 0,
+		"mw_taxontype": "fish - freshwater"
+	},
+	{
+		"species": 647,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Catostomus&speciesname=commersonii",
+		"collection_type": 0,
+		"mw_taxontype": "fish - freshwater"
+	},
+	{
+		"species": 648,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Erimyzon&speciesname=oblongus",
+		"collection_type": 0,
+		"mw_taxontype": "fish - freshwater"
+	},
+	{
+		"species": 651,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Notemigonus&speciesname=crysoleucas",
+		"collection_type": 0,
+		"mw_taxontype": "fish - freshwater"
+	},
+	{
+		"species": 652,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Rhinichthys&speciesname=atratulus",
+		"collection_type": 0,
+		"mw_taxontype": "fish - freshwater"
+	},
+	{
+		"species": 663,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Fundulus&speciesname=diaphanus",
+		"collection_type": 0,
+		"mw_taxontype": "fish - freshwater"
+	},
+	{
+		"species": 664,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Gasterosteus&speciesname=aculeatus",
+		"collection_type": 0,
+		"mw_taxontype": "fish - both"
+	},
+	{
+		"species": 665,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Pungitius&speciesname=pungitius",
+		"collection_type": 0,
+		"mw_taxontype": "fish - both"
+	},
+	{
+		"species": 668,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Lepomis&speciesname=auritus",
+		"collection_type": 2,
+		"mw_taxontype": "fish - freshwater"
+	},
+	{
+		"species": 669,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Lepomis&speciesname=gibbosus",
+		"collection_type": 0,
+		"mw_taxontype": "fish - freshwater"
+	},
+	{
+		"species": 670,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Etheostoma&speciesname=olmstedi",
+		"collection_type": 0,
+		"mw_taxontype": "fish - freshwater"
+	},
+	{
+		"species": 671,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Perca&speciesname=flavescens",
+		"collection_type": 2,
+		"mw_taxontype": "fish - freshwater"
+	},
+	{
+		"species": 672,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Orthopristis&speciesname=chrysoptera",
+		"collection_type": 0,
+		"mw_taxontype": "fish - freshwater"
+	},
+	{
+		"species": 673,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Cottus&speciesname=cognatus",
+		"collection_type": 0,
+		"mw_taxontype": "fish - freshwater"
+	},
+	{
+		"species": 674,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Fundulus&speciesname=heteroclitus",
+		"collection_type": 0,
+		"mw_taxontype": "fish - both"
+	},
+	{
+		"species": 675,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Fundulus&speciesname=luciae",
+		"collection_type": 2,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 676,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Gobiosoma&speciesname=bosc",
+		"collection_type": 0,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 677,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Trinectes&speciesname=maculatus",
+		"collection_type": 0,
+		"mw_taxontype": "fish - both"
+	},
+	{
+		"species": 678,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Mugil&speciesname=cephalus",
+		"collection_type": 0,
+		"mw_taxontype": "fish - both"
+	},
+	{
+		"species": 679,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Salvelinus&speciesname=fontinalis",
+		"collection_type": 0,
+		"mw_taxontype": "fish - both"
+	},
+	{
+		"species": 680,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Apeltes&speciesname=quadracus",
+		"collection_type": 0,
+		"mw_taxontype": "fish - both"
+	},
+	{
+		"species": 681,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Morone&speciesname=americana",
+		"collection_type": 2,
+		"mw_taxontype": "fish - both"
+	},
+	{
+		"species": 682,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Anguilla&speciesname=rostrata",
+		"collection_type": 2,
+		"mw_taxontype": "fish - both"
+	},
+	{
+		"species": 683,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Menidia&speciesname=menidia",
+		"collection_type": 0,
+		"mw_taxontype": "fish - both"
+	},
+	{
+		"species": 685,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Acipenser&speciesname=oxyrinchus",
+		"collection_type": 2,
+		"mw_taxontype": "fish - both"
+	},
+	{
+		"species": 687,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Alosa&speciesname=pseudoharengus",
+		"collection_type": 2,
+		"mw_taxontype": "fish - both"
+	},
+	{
+		"species": 688,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Alosa&speciesname=sapidissima",
+		"collection_type": 2,
+		"mw_taxontype": "fish - both"
+	},
+	{
+		"species": 689,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Alosa&speciesname=mediocris",
+		"collection_type": 2,
+		"mw_taxontype": "fish - both"
+	},
+	{
+		"species": 690,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Osmerus&speciesname=mordax",
+		"collection_type": 2,
+		"mw_taxontype": "fish - both"
+	},
+	{
+		"species": 691,
+		"externallink": "http://www.fishbase.org/Summary/speciesSummary.php?genusname=Morone&speciesname=saxatilis",
+		"collection_type": 2,
+		"mw_taxontype": "fish - both"
+	},
+	{
+		"species": 1099,
+		"externallink": "",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1150,
+		"externallink": "",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1151,
+		"externallink": "",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1575,
+		"externallink": "",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1787,
+		"externallink": "",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1807,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ACGR2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1808,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ACVI",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1809,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ACNE2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1812,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ACRU",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1813,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ACSA2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1814,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ACSA3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1815,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ACAM",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1816,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ACPA",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1818,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ADPE",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1819,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=AGMA3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1820,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=AGPA12",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1821,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=AGPU5",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1822,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=AGTE3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1823,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=AGNE2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1826,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=AGGR2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1829,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=AGHY",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1830,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=AGPE",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1833,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ALFA2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1834,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ALTR7",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1835,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ALCA3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1837,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ALINR",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1838,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ALSE2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1841,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=AMAR2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1842,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=AMTR",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1843,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=AMAR3",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1844,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=AMCA4",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1847,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=AMBR",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1848,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=AMBR2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1849,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ANMA",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1851,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ANGL2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1852,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ANVI2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1853,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ANCA8",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1854,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ANCY",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1855,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ANQU",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1856,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ANVI3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1859,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ANNE",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1860,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ANPL",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1861,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=APAM",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1863,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=APAN2",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1864,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=APCA",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1865,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=AQCA",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1866,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ARCA",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1867,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ARGL",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1869,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ARLA",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1870,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ARLY2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1872,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ARNU2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1873,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ARRA",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1878,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ARTR",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1880,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ARLO16",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1886,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ASIN",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1887,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ASPU2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1890,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ASSY",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1891,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ASTU",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1893,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ASVE",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1895,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ASPL",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1896,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ASRH2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1898,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ASTR2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1899,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ATFI",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1900,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ATCR2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1901,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=AUFL",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1903,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=AUVI",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1905,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=BAHA",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1908,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=BAVI3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1909,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=BEAL2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1910,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=BELE",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1912,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=BEPA",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1913,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=BEPO",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1914,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=BIBI7",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1915,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=BICE",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1916,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=BICO5",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1917,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=BICO",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1919,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=BIFR",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1922,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=BOCY",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1923,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=BODI2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1928,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=BOVI",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1931,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=BRCI2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1932,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=BRPU6",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1933,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=BUCA2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1937,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CAHE2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1942,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CAPA5",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1943,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CASP14",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1946,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CABU3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1947,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CACO26",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1948,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CADI10",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1949,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CAPA12",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1954,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CAALE",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1970,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CACE",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1979,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CAEB2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1990,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CAHI8",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1997,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CALU4",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 1999,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CAMU4",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2004,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CAPE6",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2005,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CAPL5",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2013,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CASC9",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2017,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CASQ2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2028,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CAUM4",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2031,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CAVU2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2033,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CACA18",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2035,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CACO15",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2036,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CAGL8",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2038,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CAOV3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2039,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CAOV2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2040,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CADE12",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2042,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CATH2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2043,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CEAM",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2044,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CESC",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2045,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CEOC",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2046,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CELO3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2047,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CETR",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2048,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CEOC2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2053,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CHFA2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2054,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CHNI2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2055,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CHTH2",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2057,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CHLU",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2059,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CHMA15",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2060,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CHNU9",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2061,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CHPO6",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2066,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CHGL2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2068,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CHSI2",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2070,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CHMA3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2071,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CHUM",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2073,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CHAM2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2075,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CIMA2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2076,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ACRAR",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2077,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CIAR2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2081,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CIHO2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2082,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CIMU",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2083,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CIPU4",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2086,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CLVI3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2088,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CLVI5",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2089,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CLAL3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2092,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=COCA4",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2094,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=COER",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2095,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=COPE80",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2097,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=COAM",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2098,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=COCA5",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2100,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=COMA4",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2101,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=COOD7",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2102,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=COAL2",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2103,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=COAM2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2105,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=COFL2",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2106,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=COFO",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2107,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CORA6",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2108,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CORU",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2109,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=COSE16",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2111,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=COSE5",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2112,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=COAM3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2114,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CRCR2",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2116,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CRPE",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2117,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CRPR2",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2119,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CRSA4",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2122,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CUVI",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2126,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CUGR",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2132,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CYEC2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2136,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CYLUL",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2137,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CYOD",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2138,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CYSQ",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2139,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CYST",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2140,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CYAC3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2141,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CYPA19",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2143,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CYBU3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2144,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=CYFR2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2145,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=DACO",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2146,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=DASP2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2149,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=DEPU2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2150,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=DEAC4",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2152,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=DEFL",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2153,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=DECA7",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2154,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=DECA8",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2157,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=DEGL4",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2159,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=DELA2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2160,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=DEMA2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2161,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=DENU4",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2162,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=DENU5",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2163,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=DEOB5",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2164,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=DEPA6",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2165,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=DERO3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2167,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=DICU",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2170,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=DICL",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2172,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=DIDE4",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2177,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=DISC3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2179,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=DILO",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2181,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=DIVI4",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2182,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=DIVI5",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2184,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=DISP",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2187,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=DRRE2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2192,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=DRCA11",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2194,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=DRCR4",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2196,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=DRIN5",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2197,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=DRMA4",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2198,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=DUAR3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2199,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ECLO",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2202,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ELEL4",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2204,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ELER",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2210,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ELPA5",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2212,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ELRO2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2215,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ELCA4",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2216,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ELHY",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2218,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ELVI3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2219,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=EPVI2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2221,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=EPCO",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2222,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=EPLE2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2223,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=EPPA",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2225,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=EQAR",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2227,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=EQHY",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2229,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ERCA",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2230,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ERHY",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2231,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ERPE",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2233,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ERHI2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2234,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ERAN",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2235,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ERPH",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2237,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ERST3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2243,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ERAM5",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2244,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=EUAM7",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2248,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=EUFI2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2249,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=EUHY",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2252,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=EUPE3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2253,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=EUPU10",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2255,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=EURO4",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2258,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=EUDI16",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2259,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=EUMA27",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2262,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=EUGR5",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2265,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=FAGR",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2266,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=FERU2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2270,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=FRVI",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2271,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=FRAM2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2272,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=FRNI",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2273,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=FRPE",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2274,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=FUSQ",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2275,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=GAVO",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2276,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=GASP5",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2278,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=GAAS2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2280,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=GACI2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2281,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=GALA3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2286,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=GATR3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2289,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=GAPR2",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2290,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=GABA",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2292,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=GAFR2",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2293,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=GEAN",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2294,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=GESA",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2295,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=GECR2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2297,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=GEMA",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2301,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=GEVI4",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2302,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=GLAC",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2303,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=GLCA",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2308,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=GOPU",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2313,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=HAVI4",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2319,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=HEDE",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2320,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=HEDI2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2321,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=HEGI",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2325,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=HENOO",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2329,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=HIMO",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2331,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=HIGR3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2333,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=HIPA2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2334,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=HISC",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2335,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=HIVE",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2336,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=HIOD",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2337,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=HOPE",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2343,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=HULU2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2347,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=HYCA3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2349,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=HYCA7",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2354,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=HYPU",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2355,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=HYHI2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2359,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ILVE",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2360,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=IMCA",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2362,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=IOLI2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2365,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=IRVE2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2369,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=IVFR",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2370,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=JUCI",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2371,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=JUNI",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2372,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=JUAC",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2373,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=JUAR4",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2380,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=JUEF",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2381,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=JUGE",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2382,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=JUMA4",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2383,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=JUNO2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2387,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=JUTE",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2388,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=JUTO",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2390,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=JUVI",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2393,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=KALA",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2396,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LABI",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2397,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LACA",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2400,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LACA3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2403,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LAPA4",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2405,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LEMA",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2407,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LEMU3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2409,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LERA",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2412,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LEVI2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2413,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LEMI3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2419,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LECA8",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2420,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LEHI2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2421,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LEPR",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2424,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LEVI6",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2425,
+		"externallink": "hhttp://plants.usda.gov/java/profile?symbol=EURA5",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2426,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LISC2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2428,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LICH",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2429,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LICA3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2430,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LIPH",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2431,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LISU",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2432,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LICA17",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2434,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LIBE3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2435,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LIDU",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2439,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LIVI",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2440,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LILI3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2441,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LILO",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2442,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LIST2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2445,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LOCA2",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2446,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LOIN",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2449,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LOSI",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2451,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LODI2",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2452,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LOSE",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2453,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LUAL2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2454,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LUPA",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2463,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LYCO3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2464,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LYOB",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2465,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LYAM",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2468,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LYUN",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2469,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LYVI4",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2471,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LYLI",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2472,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LYMA2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2473,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LYCI",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2474,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LYHY",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2475,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LYQU2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2476,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LYTE2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2477,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LYTH2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2481,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=MACA4",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2482,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=MARA7",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2485,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=MACO5",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2486,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=MAST",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2487,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=MEVI",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2491,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=MECA3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2493,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=MISC",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2494,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=MIAL2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2495,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=MIRI",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2497,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=MIRE",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2503,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=MOHY3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2504,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=MOUN3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2505,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=MOPE6",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2506,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=MORU2",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2509,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=MUSC",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2510,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=MUSO",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2514,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=MYVE",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2520,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=NULU",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2521,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=NYODO",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2522,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=NYSY",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2523,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=OCAC",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2525,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=OEBI",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2528,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=OEPA5",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2530,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=OLUN",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2531,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=OLRIR",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2532,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ONSE",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2533,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ONVI2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2534,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=OPPU3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2535,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=OPHU",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2536,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ORUN",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2537,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ORAQ",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2540,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=OSCI",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2541,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=OSCL2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2542,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=OSRE",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2543,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=OSVI",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2544,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=OXMO",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2545,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=OXST",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2546,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=OXVI",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2548,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PAAU3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2551,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PAQU",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2552,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PATR2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2554,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PACA6",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2556,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PAVE2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2557,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PAVI2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2558,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PAPE5",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2559,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PAGL3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2561,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PAQU2",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2563,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PASE5",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2564,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PECA",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2565,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PELA2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2566,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PEAT2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2569,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PESE6",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2570,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PHPO2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2571,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PHCO24",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2572,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PHHE11",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2578,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PHPY4",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2579,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PHAU7",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2580,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PHLE5",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2581,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PHHE5",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2584,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PHVI5",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2586,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PHAM4",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2588,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PIPU2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2591,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PIRI",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2592,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PIST",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2596,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PLCO2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2597,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PLMA3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2602,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PLCI2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2605,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PLFL",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2606,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PLLA2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2608,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PLOC",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2609,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PLOD",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2613,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=POPE",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2619,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=POIN4",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2624,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=POSA3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2625,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=POVE",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2627,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=POPU4",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2629,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=POAM8",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2630,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=POAR6",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2631,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=POCA8",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2633,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=POER2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2635,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=POHY2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2636,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=POPE2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2637,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=POPU5",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2638,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PORA3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2639,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=POSA5",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2640,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=POSC3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2641,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=POTE2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2642,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=POVI2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2643,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=POVI7",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2644,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=POAC4",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2647,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PODE3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2648,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=POGR4",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2650,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=POTR5",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2661,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=POCA17",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2662,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PONO3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2663,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=POSI2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2665,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PRAL3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2669,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PRPA3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2671,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PRMA2",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2672,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PRPE2",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2674,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PRSE2",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2677,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PSOB3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2678,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PTTR",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2679,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PTAQ",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2682,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PYCL",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2683,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PYIN",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2684,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PYMU",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2685,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PYTE",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2686,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PYTO",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2688,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PYVI",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2689,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PYAM",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2690,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=PYEL",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2691,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=QUAL",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2692,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=QUBI",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2693,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=QUCO2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2696,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=QUPA2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2698,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=QUPR",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2699,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=QUPR2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2700,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=QURU",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2701,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=QUST",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2702,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=QUVE",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2703,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=RAAB",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2708,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=RAFL2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2711,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=RAPE2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2712,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=RAPU",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2713,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=RARE2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2714,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=RASC3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2716,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=RHVI",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2719,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=RHVI2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2721,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=RHCO",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2722,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=RHAL3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2723,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=RHCA12",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2725,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=RIAM2",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2730,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ROCA4",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2731,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ROPA",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2733,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ROVI2",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2735,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=RUAL",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2736,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=RUCA16",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2737,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=RUCU",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2738,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=RUFL",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2739,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=RUHI",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2741,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=RUOC",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2742,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=RUOD",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2743,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=RUPE3",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2748,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=RUOR2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2751,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SAAN",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2752,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SACA26",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2753,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SADO",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2757,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SAGR",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2758,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SALA2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2762,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SACA4",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2764,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SADI",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2765,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SAER",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2767,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SAHU2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2768,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SANI",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2770,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SASE",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2771,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SALY2",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2772,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SANIC4",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2775,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SACA13",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2779,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SAPE11",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2781,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SAAL5",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2782,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SACE",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2783,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SAPE8",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2784,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SAVI5",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2786,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SCSC",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2788,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SCAM6",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2789,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SCFL11",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2794,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SCTA2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2797,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SCEX",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2802,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SCTR",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2804,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SCLA",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2805,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SCMA2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2806,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SCEL",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2807,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SCGA",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2809,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SCLA2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2810,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SEAP",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2813,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SEAS3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2814,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SELI5",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2816,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SIAN",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2817,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SIAN2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2818,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SICAP",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2819,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SIST",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2820,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SIAN3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2825,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SMGL",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2826,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SMHE",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2827,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SMRO",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2829,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SOBI",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2830,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SOCA4",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2831,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SOCA6",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2832,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SOFL2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2837,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SONE",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2838,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SOOD",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2839,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SOPA2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2842,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SOSE",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2843,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SOSP2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2850,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SPAN",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2852,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SPAL",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2853,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SPCY",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2854,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SPPA",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2857,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SPNI",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2858,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SPOB",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2859,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SPPE3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2860,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SPAL2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2861,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SPTO2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2862,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SPCE",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2863,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SPLAG",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2867,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SPCO16",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2870,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=STHY3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2872,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=STTE",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2873,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=STTR",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2876,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=STHE9",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2880,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SYCO4",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2882,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SYERE",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2884,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SYLAL4",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2886,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SYLO2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2887,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SYNO2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2888,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SYNO3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2892,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SYPUP",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2893,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SYRA5",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2898,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=SYFO",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2902,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=TECA3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2904,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=THDI",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2905,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=THPU2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2907,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=THTH2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2908,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=THTRA",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2909,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=THNO",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2910,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=THPA",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2913,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=TIAM",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2915,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=TOPA6",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2916,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=TORA2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2917,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=TOVE",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2918,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=TRVI2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2919,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=TRPL6",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2920,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=TRDI2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2922,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=TRFL2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2923,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=TRBO2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2924,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=TRMA20",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2925,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=TRCE",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2926,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=TRER3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2928,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=TRPE4",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2930,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=TRPE5",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2932,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=TRPU4",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2933,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=TRDA3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2935,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=TSCA",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2936,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=TYLA",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2937,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ULAM",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2938,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ULRU",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2946,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=UVPE",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2947,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=UVSE",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2948,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=VAAN",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2949,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=VACO",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2950,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=VAMA",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2951,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=VAPA4",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2954,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=VEVI",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2955,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=VEHA2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2956,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=VESI",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2957,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=VEUR",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2959,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=VENO",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2963,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=VEVI4",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2964,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=VIAC",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2965,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=VIDE",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2966,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=VILA11",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2969,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=VIPR",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2975,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=VICU",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2976,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=VILA4",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2978,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=VIPA18",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2979,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=VIPE",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2980,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=VIPU3",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2982,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=VISA2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2983,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=VISO",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2985,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=VIAE",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2986,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=VILA8",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2987,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=VIRI",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2988,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=VUOC",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2990,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=WOIL",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2991,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=WOOB2",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2992,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=WOAR",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 2993,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=WOVI",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 3002,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=ZOMA",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 3005,
+		"externallink": "",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 3016,
+		"externallink": "",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 3024,
+		"externallink": "",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 3027,
+		"externallink": "",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 3029,
+		"externallink": "",
+		"collection_type": 0,
+		"mw_taxontype": "bird - resident"
+	},
+	{
+		"species": 3058,
+		"externallink": "http://plants.usda.gov/java/profile?symbol=LITU",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 3138,
+		"externallink": "",
+		"collection_type": 3,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 3772,
+		"externallink": "",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 3939,
+		"externallink": "",
+		"collection_type": 0,
+		"mw_taxontype": "plant"
+	},
+	{
+		"species": 4401,
+		"externallink": "",
+		"collection_type": 2,
+		"mw_taxontype": "fish - marine"
+	},
+	{
+		"species": 4469,
+		"externallink": "",
+		"collection_type": 0,
+		"mw_taxontype": "amphibians"
+	}
+]
