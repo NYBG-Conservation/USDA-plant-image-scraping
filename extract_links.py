@@ -1,7 +1,7 @@
 import json
 import pandas as pd
 
-json_file = 'output_data_misc.json' 
+json_file = 'species_taxon_link.json' 
 with open(json_file, 'r') as file:
     data = json.load(file)
 
