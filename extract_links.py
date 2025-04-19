@@ -1,7 +1,7 @@
 import json
 import pandas as pd
 
-json_file = 'output_data_misc.json' 
+json_file = 'species_taxon_link.json' 
 with open(json_file, 'r') as file:
     data = json.load(file)
 
@@ -12,7 +12,7 @@ links = [item['externallink'] for item in data if 'externallink' in item and 'us
 df = pd.DataFrame(links, columns=['externallink'])
 
 # Save to CSV
-output_csv = 'extracted_links.csv'
+output_csv = 'extracted_links_2.csv'
 df.to_csv(output_csv, index=False)
 
 print(f"CSV saved as {output_csv}")
