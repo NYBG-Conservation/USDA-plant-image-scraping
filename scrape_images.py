@@ -12,7 +12,7 @@ os.makedirs(output_folder, exist_ok=True)
 
 results = []
 # Read the CSV file into a DataFrame
-csv_file = 'extracted_links.csv'
+csv_file = 'extracted_links_2.csv'
 df = pd.read_csv(csv_file)
 print(f"Loaded CSV: {csv_file}")
 print(df.head())
